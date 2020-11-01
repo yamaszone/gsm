@@ -1,6 +1,6 @@
-module github.com/apache/gsm
+module github.com/yamaszone/gsm
 
-go 1.13
+go 1.15
 
 require (
 	cloud.google.com/go v0.61.0
